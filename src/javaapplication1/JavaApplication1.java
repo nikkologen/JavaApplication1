@@ -22,4 +22,8 @@ public class JavaApplication1 {
 
 /**
  * dokker e faggots
+ * ølksjdfhalksjdhf
+ * aøkljsdhflkajhgsd
+ * aljkshdfgkjashdgf
+ * alkjshjdfgljahsd
  */
